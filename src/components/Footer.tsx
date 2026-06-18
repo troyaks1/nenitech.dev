@@ -49,10 +49,10 @@ export function Footer() {
                 <span itemProp="name" className="font-medium text-white">NENI TECH LLC</span>
               </p>
               <p>
-                <span itemProp="streetAddress">5900 Balcones Drive, STE 100</span><br />
-                <span itemProp="addressLocality">Austin</span>,{' '}
-                <span itemProp="addressRegion">Texas</span>{' '}
-                <span itemProp="postalCode">78731</span><br />
+                <span itemProp="streetAddress">7345 West Sand Lake Road</span><br />
+                <span itemProp="addressLocality">Orlando</span>,{' '}
+                <span itemProp="addressRegion">FL</span>{' '}
+                <span itemProp="postalCode">32819</span><br />
                 <span itemProp="addressCountry">United States</span>
               </p>
               <p>

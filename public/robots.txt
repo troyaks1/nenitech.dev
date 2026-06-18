@@ -1,0 +1,7 @@
+# Robots.txt
+# https://nenitech.dev
+
+User-agent: *
+Allow: /
+
+Sitemap: https://nenitech.dev/sitemap.xml

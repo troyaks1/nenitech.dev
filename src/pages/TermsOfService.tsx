@@ -28,8 +28,8 @@ function TermsContentEN() {
         <p>
           These Terms of Service ("Terms") govern your access to and use of the websites, products, and services
           provided by <strong>NENI TECH LLC</strong> ("Company", "we", "us", or "our"), a limited liability company
-          registered in the United States, with its principal place of business at 5900 Balcones Drive, STE 100,
-          Austin, Texas 78731. This includes our website{' '}
+          registered in the United States, with its principal place of business at 7345 West Sand Lake Road,
+          Orlando, FL 32819. This includes our website{' '}
           <a href="https://nenitech.dev" className="text-primary-300 hover:underline">nenitech.dev</a>, as well as our
           products Agents for Chat (<a href="https://agents4chat.com" className="text-primary-300 hover:underline" target="_blank" rel="noopener noreferrer">agents4chat.com</a>)
           and Mynute (<a href="https://mynute.app" className="text-primary-300 hover:underline" target="_blank" rel="noopener noreferrer">mynute.app</a>)
@@ -205,8 +205,8 @@ function TermsContentEN() {
         <p>For questions about these Terms of Service, please contact us:</p>
         <div className="mt-4 bg-dark-800 rounded-lg p-6 border border-dark-600">
           <p className="font-semibold text-white">NENI TECH LLC</p>
-          <p>5900 Balcones Drive, STE 100</p>
-          <p>Austin, Texas 78731</p>
+          <p>7345 West Sand Lake Road</p>
+          <p>Orlando, FL 32819</p>
           <p>United States</p>
           <p className="mt-2">
             Phone: <a href="tel:+19564746576" className="text-primary-300 hover:underline">+1 (956) 474-6576</a>
@@ -227,8 +227,8 @@ function TermsContentPT() {
         <p>
           Estes Termos de Serviço ("Termos") regem seu acesso e uso dos sites, produtos e serviços
           fornecidos pela <strong>NENI TECH LLC</strong> ("Empresa", "nós" ou "nosso"), uma empresa de responsabilidade limitada
-          registrada nos Estados Unidos, com sede em 5900 Balcones Drive, STE 100,
-          Austin, Texas 78731. Isso inclui nosso website{' '}
+          registrada nos Estados Unidos, com sede em 7345 West Sand Lake Road,
+          Orlando, FL 32819. Isso inclui nosso website{' '}
           <a href="https://nenitech.dev" className="text-primary-300 hover:underline">nenitech.dev</a>, bem como nossos
           produtos Agents for Chat (<a href="https://agents4chat.com" className="text-primary-300 hover:underline" target="_blank" rel="noopener noreferrer">agents4chat.com</a>)
           e Mynute (<a href="https://mynute.app" className="text-primary-300 hover:underline" target="_blank" rel="noopener noreferrer">mynute.app</a>)
@@ -404,8 +404,8 @@ function TermsContentPT() {
         <p>Para dúvidas sobre estes Termos de Serviço, entre em contato conosco:</p>
         <div className="mt-4 bg-dark-800 rounded-lg p-6 border border-dark-600">
           <p className="font-semibold text-white">NENI TECH LLC</p>
-          <p>5900 Balcones Drive, STE 100</p>
-          <p>Austin, Texas 78731</p>
+          <p>7345 West Sand Lake Road</p>
+          <p>Orlando, FL 32819</p>
           <p>Estados Unidos</p>
           <p className="mt-2">
             Telefone: <a href="tel:+19564746576" className="text-primary-300 hover:underline">+1 (956) 474-6576</a>
