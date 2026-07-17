@@ -27,7 +27,7 @@ function PrivacyContentEN() {
       <div>
         <p>
           This Privacy Policy describes how <strong>NENI TECH LLC</strong> ("Company", "we", "us", or "our"),
-          located at 7345 West Sand Lake Road, Orlando, FL 32819, collects, uses,
+          located at 5900 Balcones Dr Ste 100, Austin, TX 78731, collects, uses,
           shares, and protects your personal information when you visit our website{' '}
           <a href="https://nenitech.dev" className="text-primary-300 hover:underline">nenitech.dev</a>{' '}
           and use our services, including our products Agents for Chat (<a href="https://agents4chat.com" className="text-primary-300 hover:underline" target="_blank" rel="noopener noreferrer">agents4chat.com</a>) and Mynute (<a href="https://mynute.app" className="text-primary-300 hover:underline" target="_blank" rel="noopener noreferrer">mynute.app</a>).
@@ -176,8 +176,8 @@ function PrivacyContentEN() {
         <p>If you have any questions or concerns about this Privacy Policy or our data practices, please contact us:</p>
         <div className="mt-4 bg-dark-800 rounded-lg p-6 border border-dark-600">
           <p className="font-semibold text-white">NENI TECH LLC</p>
-          <p>7345 West Sand Lake Road</p>
-          <p>Orlando, FL 32819</p>
+          <p>5900 Balcones Dr Ste 100</p>
+          <p>Austin, TX 78731</p>
           <p>United States</p>
           <p className="mt-2">
             Phone: <a href="tel:+19564746576" className="text-primary-300 hover:underline">+1 (956) 474-6576</a>
@@ -197,7 +197,7 @@ function PrivacyContentPT() {
       <div>
         <p>
           Esta Política de Privacidade descreve como a <strong>NENI TECH LLC</strong> ("Empresa", "nós" ou "nosso"),
-          localizada em 7345 West Sand Lake Road, Orlando, FL 32819, coleta, utiliza,
+          localizada em 5900 Balcones Dr Ste 100, Austin, TX 78731, coleta, utiliza,
           compartilha e protege suas informações pessoais quando você visita nosso website{' '}
           <a href="https://nenitech.dev" className="text-primary-300 hover:underline">nenitech.dev</a>{' '}
           e utiliza nossos serviços, incluindo nossos produtos Agents for Chat (<a href="https://agents4chat.com" className="text-primary-300 hover:underline" target="_blank" rel="noopener noreferrer">agents4chat.com</a>) e Mynute (<a href="https://mynute.app" className="text-primary-300 hover:underline" target="_blank" rel="noopener noreferrer">mynute.app</a>).
@@ -346,8 +346,8 @@ function PrivacyContentPT() {
         <p>Se você tiver dúvidas ou preocupações sobre esta Política de Privacidade ou nossas práticas de dados, entre em contato conosco:</p>
         <div className="mt-4 bg-dark-800 rounded-lg p-6 border border-dark-600">
           <p className="font-semibold text-white">NENI TECH LLC</p>
-          <p>7345 West Sand Lake Road</p>
-          <p>Orlando, FL 32819</p>
+          <p>5900 Balcones Dr Ste 100</p>
+          <p>Austin, TX 78731</p>
           <p>Estados Unidos</p>
           <p className="mt-2">
             Telefone: <a href="tel:+19564746576" className="text-primary-300 hover:underline">+1 (956) 474-6576</a>

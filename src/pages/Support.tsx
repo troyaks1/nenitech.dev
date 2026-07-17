@@ -56,8 +56,8 @@ export function Support() {
                     <h3 className="font-semibold text-white">{t.support.contact.address}</h3>
                     <p className="text-sm text-gray-400 mt-1">
                       NENI TECH LLC<br />
-                      7345 West Sand Lake Road<br />
-                      Orlando, FL 32819<br />
+                      5900 Balcones Dr Ste 100<br />
+                      Austin, TX 78731<br />
                       United States
                     </p>
                   </div>
