@@ -76,10 +76,10 @@ export function About() {
           <div itemProp="address" itemScope itemType="https://schema.org/PostalAddress">
             <p className="text-gray-400 text-sm">
               <span itemProp="name" className="font-semibold text-white">NENI TECH LLC</span><br />
-              <span itemProp="streetAddress">7345 West Sand Lake Road</span><br />
-              <span itemProp="addressLocality">Orlando</span>,{' '}
-              <span itemProp="addressRegion">FL</span>{' '}
-              <span itemProp="postalCode">32819</span><br />
+              <span itemProp="streetAddress">5900 Balcones Dr Ste 100</span><br />
+              <span itemProp="addressLocality">Austin</span>,{' '}
+              <span itemProp="addressRegion">TX</span>{' '}
+              <span itemProp="postalCode">78731</span><br />
               <span itemProp="addressCountry">United States</span>
             </p>
           </div>
